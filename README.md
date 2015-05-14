@@ -2,9 +2,11 @@
 ## Welcome
 This course has handouts and code samples provided.
 
-Code samples will be available on both GitHub and Learnable.com. This course has an assigned GitHub repo nand code samples are avialble via branches. Code samples can also be downloaded via Learnable.com course **Download Zip** button on the lesson pages, where code is available.
+Code samples will be available on both GitHub and Learnable.com. This course has an assigned GitHub repo with code samples available via branches. 
 
-The handouts are available via the first lesson of a course as .md or .pdf file formats. Just have a look below.
+Code samples can also be downloaded through the Learnable.com website. When viewing the course page, lesson 1.1 will contain all handouts and code samples. All lesson pages thereafter will provide code samples needed as required by the lesson. Click **Download Zip** to download the assets.
+
+Handouts are available via the first lesson of a course as .md or .pdf file formats. Just explore the list below.
 
 **Happy Learning!**
 
