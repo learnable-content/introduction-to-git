@@ -1,16 +1,55 @@
-![](headers/Git Lesson 1.1.jpg)
+#Introduction To Git
+## Welcome
+This course has handouts and code samples provided.
 
-# Introduction
+Code samples will be available on both GitHub and Learnable.com. This course has an assigned GitHub repo with code samples available via branches. 
 
-Hi, and welcome to this beginner's course on version control using Git!
+Code samples can also be downloaded through the Learnable.com website. When viewing the course page, lesson 1.1 will contain all handouts and code samples. All lesson pages thereafter will provide code samples needed as required by the lesson. Click **Download Zip** to download the assets.
 
-# Course Road Map
+Handouts are available via the first lesson of a course as .md or .pdf file formats. Just explore the list below.
 
-This course is divided into 11 lessons.
+**Happy Learning!**
 
-* In the first three lessons we'll go over what version control means, what Git does, and some basic Git theory.
-* From lessons four to eight, we'll do a project using Git commands. These lessons form a chunk of the course, and I recommend that you do the project along with me - this will help you to not only understand Git, but also to put it into practice.
-* In lesson number nine and ten we'll put up a project on a GitHub page for potential employers and customers to view. We'll also play around with a few cool features on GitHub itself.
-* We'll conclude our course at lesson number eleven which is just a recap of what we learned in the course.
+## Course Handout Index 
 
-I'd like to stress that in order to get the most out of this course, you should do the project which will allow you to understand and practice Git commands. And now let's go ahead and start learning about Git!
+* [Lesson 1.1](Introduction_to_Git_handouts/lesson1.1.md)
+* [Lesson 1.2](Introduction_to_Git_handouts/lesson1.2.md)
+* [Lesson 1.3](Introduction_to_Git_handouts/lesson1.3.md)
+* [Lesson 1.4](Introduction_to_Git_handouts/lesson1.4.md)
+* [Lesson 2.1](Introduction_to_Git_handouts/lesson2.1.md)
+* [Lesson 2.2](Introduction_to_Git_handouts/lesson2.2.md)
+* [Lesson 2.3](Introduction_to_Git_handouts/lesson2.3.md)
+* [Lesson 2.4](Introduction_to_Git_handouts/lesson2.4.md)
+* [Lesson 2.5](Introduction_to_Git_handouts/lesson2.5.md)
+* [Lesson 3.1](Introduction_to_Git_handouts/lesson3.1.md)
+* [Lesson 3.2](Introduction_to_Git_handouts/lesson3.2.md)
+* [Lesson 4.1](Introduction_to_Git_handouts/lesson4.1.md)
+* [Lesson 4.2](Introduction_to_Git_handouts/lesson4.2.md)
+* [Lesson 4.3](Introduction_to_Git_handouts/lesson4.3.md)
+* [Lesson 5.1](Introduction_to_Git_handouts/lesson5.1.md)
+* [Lesson 5.2](Introduction_to_Git_handouts/lesson5.2.md)
+* [Lesson 5.3](Introduction_to_Git_handouts/lesson5.3.md)
+* [Lesson 6.1](Introduction_to_Git_handouts/lesson6.1.md)
+* [Lesson 6.2](Introduction_to_Git_handouts/lesson6.2.md)
+* [Lesson 6.3](Introduction_to_Git_handouts/lesson6.3.md)
+* [Lesson 6.4](Introduction_to_Git_handouts/lesson6.4.md)
+* [Lesson 7.1](Introduction_to_Git_handouts/lesson7.1.md)
+* [Lesson 7.2](Introduction_to_Git_handouts/lesson7.2.md)
+* [Lesson 7.3](Introduction_to_Git_handouts/lesson7.3.md)
+* [Lesson 7.4](Introduction_to_Git_handouts/lesson7.4.md)
+* [Lesson 7.5](Introduction_to_Git_handouts/lesson7.5.md)
+* [Lesson 7.6](Introduction_to_Git_handouts/lesson7.6.md)
+* [Lesson 7.7](Introduction_to_Git_handouts/lesson7.7.md)
+* [Lesson 7.8](Introduction_to_Git_handouts/lesson7.8.md)
+* [Lesson 7.9](Introduction_to_Git_handouts/lesson7.9.md)
+* [Lesson 7.10](Introduction_to_Git_handouts/lesson7.10.md)
+* [Lesson 7.11](Introduction_to_Git_handouts/lesson7.11.md)
+* [Lesson 7.12](Introduction_to_Git_handouts/lesson7.12.md)
+* [Lesson 7.13](Introduction_to_Git_handouts/lesson7.13.md)
+* [Lesson 8.1](Introduction_to_Git_handouts/lesson8.1.md)
+* [Lesson 9.1](Introduction_to_Git_handouts/lesson9.1.md)
+* [Lesson 9.2](Introduction_to_Git_handouts/lesson9.2.md)
+* [Lesson 10.1](Introduction_to_Git_handouts/lesson10.1.md)
+* [Lesson 10.2](Introduction_to_Git_handouts/lesson10.2.md)
+* [Lesson 10.3](Introduction_to_Git_handouts/lesson10.3.md)
+* [Lesson 11.1](Introduction_to_Git_handouts/lesson11.1.md)
