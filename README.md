@@ -1,4 +1,4 @@
-![](headers/Git Lesson 4.2.jpg)
+![](Introduction_to_Git_handouts/headers/Git Lesson 4.2.jpg)
 
 # Introduction
 
