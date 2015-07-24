@@ -1,4 +1,4 @@
-![](Introduction_to_Git_handouts/headers/Git Lesson 7.6.jpg)
+![](headers/Git Lesson 7.6.jpg)
 
 # Pulling into Branch featureB
 
